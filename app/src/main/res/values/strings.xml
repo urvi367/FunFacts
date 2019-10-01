@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fun Facts</string>
+    <string name="text1">Did you know?</string>
+    <string name="button1">Show another Fun Fact</string>
+</resources>
